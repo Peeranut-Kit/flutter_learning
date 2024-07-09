@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "219772507881",
+    "project_id": "myloginapplication-e34b3",
+    "storage_bucket": "myloginapplication-e34b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219772507881:android:2feeca977e1123be8c8278",
+        "android_client_info": {
+          "package_name": "com.example.flutter_learn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp3wHGM6pT5aOpT8ZlkHsVrqp3nA5mOPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
