@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_learn/page/addform.dart';
+import 'package:flutter_learn/page/listview/addform.dart';
 import 'package:google_fonts/google_fonts.dart';
-import '../model/player.dart';
+import '../../model/player.dart';
 
 class ListViewPage extends StatefulWidget {
   const ListViewPage({super.key});
